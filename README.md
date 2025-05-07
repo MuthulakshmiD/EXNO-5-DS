@@ -86,20 +86,7 @@ STEP 5:Include Necessary parameters in each functions.
 ```
 ![image](https://github.com/user-attachments/assets/3c73542e-6e9d-49f2-af82-3d21777a5372)
 
-```py
- import matplotlib.pyplot as plt
- import numpy as np
- import pandas as pd
- x=np.arange(0,10)
- y=np.arange(11,21)
- x
-```
-![image](https://github.com/user-attachments/assets/4aff6de4-7e23-435e-af5e-31bb12ea8e89)
 
-```py
-y
-```
-![image](https://github.com/user-attachments/assets/e88750c1-7c83-44be-a808-3725031df454)
 
 ```py
  plt.scatter(x,y,c='r')
