@@ -110,11 +110,6 @@ y
 ```
 ![image](https://github.com/user-attachments/assets/d54bb904-47e7-4227-b056-c5523f9b1936)
 
-```py
-y=x*x
-y
-```
-![image](https://github.com/user-attachments/assets/c2985742-f7ee-4cb9-9afc-f43508ac60c3)
 
 ```py
  plt.plot(x,y,'g*',linestyle='dashed',linewidth=2,markersize=12)
